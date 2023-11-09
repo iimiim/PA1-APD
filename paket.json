@@ -1,0 +1,22 @@
+{
+    "jenis": [
+        "Single",
+        "Couple"
+    ],
+    "harga": [
+        [
+            "Rp 350.000/Bulan",
+            "Rp 650.000/2 Bulan",
+            "Rp 950.000/3 Bulan",
+            "Rp 1.750.000/6 Bulan",
+            "Rp 3.000.000/1 Tahun"
+        ],
+        [
+            "Rp 650.000/Bulan",
+            "Rp 1.000.000/2 Bulan",
+            "Rp 1.600.000/3 Bulan",
+            "Rp 3.000.000/6 Bulan",
+            "Rp 5.500.000/1 Tahun"
+        ]
+    ]
+}

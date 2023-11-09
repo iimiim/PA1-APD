@@ -1,0 +1,19 @@
+[
+    {
+        "username": "admin",
+        "password": "admin",
+        "role": "admin"
+    },
+    {
+        "username": "rahman",
+        "password": "123",
+        "role": "user",
+        "langganan": null
+    },
+    {
+        "username": "adi",
+        "password": "222",
+        "role": "user",
+        "langganan": null
+    }
+]
